@@ -1,4 +1,4 @@
 
-[Deutsch](/ISB-Eltern-wiki/de/index "Deutsch")
+[Deutsch](/ISB-Eltern-wiki/de/ "Deutsch")
 
-[English](/ISB-Eltern-wiki/en/index "English")
+[English](/ISB-Eltern-wiki/en/ "English")
