@@ -1,5 +1,5 @@
-| Übersicht |
-| --- |
+| Übersicht | |
+| --- | --- |
 | Seite betrifft Preschool | ja |
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |

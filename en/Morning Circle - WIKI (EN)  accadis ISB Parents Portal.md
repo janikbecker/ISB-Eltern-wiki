@@ -1,0 +1,7 @@
+| Overview |
+| --- |
+| Information for Preschool | yes |
+| Information for Elementary School | no |
+| Information for Secondary School | no |
+
+For us as faculty members and as role models to the children, it is important to us to exhibit a professional work approach. You as parents contribute to this as well and support us therein. That is why it is important for children to arrive at Preschool by 08:55 hrs at the latest, so that Morning Circle can take place without interruption. The Morning Circle represents the joint start to the day for each group. During the Morning Circle we talk about the daily routine, we sing, read and play. Our daily routine is well structured as this is important for the children. For children a daily routine creates a safe and secure environment. Children know what to expect if each day starts with the same or similar routine (at least on weekdays). This way, they know what will happen next, when they have [lunch](https://en.wiki.accadis-isb.net/Nutrition_and_School_Meals "Nutrition and School Meals"), for example, or when the group will go to the outside area. Please support us so we can ensure that your child and each Preschool group can follow its daily routine without interruption.
