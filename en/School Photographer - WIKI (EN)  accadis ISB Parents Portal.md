@@ -1,6 +1,6 @@
 From WIKI (EN) | accadis ISB Parents Portal
 
-[Jump to navigation](https://en.wiki.accadis-isb.net/School_Photographer#mw-head) [Jump to search](https://en.wiki.accadis-isb.net/School_Photographer#searchInput)
+[Jump to navigation](/en/School_Photographer#mw-head) [Jump to search](/en/School_Photographer#searchInput)
 
 | Overview |
 | --- |
@@ -10,10 +10,10 @@ From WIKI (EN) | accadis ISB Parents Portal
 
 The school arranges for a professional photographer to take photographs of individual students and whole classes once a year. Parents have the option to purchase these images.
 
-Retrieved from "[https://en.wiki.accadis-isb.net/index.php?title=School\_Photographer&oldid=162](https://en.wiki.accadis-isb.net/index.php?title=School_Photographer&oldid=162)"
+Retrieved from "[/en/index.php?title=School\_Photographer&oldid=162](/en/index.php?title=School_Photographer&oldid=162)"
 
-[Categories](https://en.wiki.accadis-isb.net/Special:Categories "Special:Categories"):
+[Categories](/en/Special:Categories "Special:Categories"):
 
--   [Preschool](https://en.wiki.accadis-isb.net/Category:Preschool "Category:Preschool")
--   [Elementary School](https://en.wiki.accadis-isb.net/Category:Elementary_School "Category:Elementary School")
--   [Secondary School](https://en.wiki.accadis-isb.net/Category:Secondary_School "Category:Secondary School")
+-   [Preschool](/en/Category:Preschool "Category:Preschool")
+-   [Elementary School](/en/Category:Elementary_School "Category:Elementary School")
+-   [Secondary School](/en/Category:Secondary_School "Category:Secondary School")

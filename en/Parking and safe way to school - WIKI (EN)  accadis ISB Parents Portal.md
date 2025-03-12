@@ -32,7 +32,7 @@ The important thing is that children and students must remain on the school comp
 
 accadis International School is located at the SÜDCAMPUS in Ober-Eschbach, a suburb of Bad Homburg. On the following pages you will find a map of the accadis ISB premises. All parking lots, entrances for Preschool, Elementary School and Secondary School are marked on it.
 
-[![Overview School Premises](https://en.wiki.accadis-isb.net/images/f/fc/Uebersicht_Schulgelaende_-_Overview_School_Premises.jpg)](https://en.wiki.accadis-isb.net/File:Uebersicht_Schulgelaende_-_Overview_School_Premises.jpg "Overview School Premises")
+[![Overview School Premises](/en/images/f/fc/Uebersicht_Schulgelaende_-_Overview_School_Premises.jpg)](/en/File:Uebersicht_Schulgelaende_-_Overview_School_Premises.jpg "Overview School Premises")
 
 ## Safely entering and leaving the school premises\ 
 
@@ -50,7 +50,7 @@ Parents of the Preschool either hand over their child at the small gate to the P
 
 Elementary and Secondary School students also walk around the building (picture 4) and enter the school through the main entrance.
 
-[![First Way to School 1](https://en.wiki.accadis-isb.net/images/7/7e/Erster_Schulweg_1_-_First_Way_to_School_1.png)](https://en.wiki.accadis-isb.net/File:Erster_Schulweg_1_-_First_Way_to_School_1.png "First Way to School 1") [![First Way to School 2](https://en.wiki.accadis-isb.net/images/b/b2/Erster_Schulweg_2_-_First_Way_to_School_2.png)](https://en.wiki.accadis-isb.net/File:Erster_Schulweg_2_-_First_Way_to_School_2.png "First Way to School 2") [![First Way to School 3](https://en.wiki.accadis-isb.net/images/9/9d/Erster_Schulweg_3_-_First_Way_to_School_3.png)](https://en.wiki.accadis-isb.net/File:Erster_Schulweg_3_-_First_Way_to_School_3.png "First Way to School 3") [![First Way to School 4](https://en.wiki.accadis-isb.net/images/0/05/Erster_Schulweg_4_-_First_Way_to_School_4.png)](https://en.wiki.accadis-isb.net/File:Erster_Schulweg_4_-_First_Way_to_School_4.png "First Way to School 4") [![Main Entrance ES + SeS](https://en.wiki.accadis-isb.net/images/a/a7/Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png)](https://en.wiki.accadis-isb.net/File:Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png "Main Entrance ES + SeS")
+[![First Way to School 1](/en/images/7/7e/Erster_Schulweg_1_-_First_Way_to_School_1.png)](/en/File:Erster_Schulweg_1_-_First_Way_to_School_1.png "First Way to School 1") [![First Way to School 2](/en/images/b/b2/Erster_Schulweg_2_-_First_Way_to_School_2.png)](/en/File:Erster_Schulweg_2_-_First_Way_to_School_2.png "First Way to School 2") [![First Way to School 3](/en/images/9/9d/Erster_Schulweg_3_-_First_Way_to_School_3.png)](/en/File:Erster_Schulweg_3_-_First_Way_to_School_3.png "First Way to School 3") [![First Way to School 4](/en/images/0/05/Erster_Schulweg_4_-_First_Way_to_School_4.png)](/en/File:Erster_Schulweg_4_-_First_Way_to_School_4.png "First Way to School 4") [![Main Entrance ES + SeS](/en/images/a/a7/Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png)](/en/File:Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png "Main Entrance ES + SeS")
 
 ## From "Am Weidenring"\ 
 
@@ -63,7 +63,7 @@ Preschool parents either hand over their child at the glass door of the respecti
 
 Elementary and Secondary School students stay on the right and enter the school through the main entrance.
 
-[![Second Way to School 1](https://en.wiki.accadis-isb.net/images/6/68/Zweiter_Schulweg_1_-_Second_Way_to_School_1.png)](https://en.wiki.accadis-isb.net/File:Zweiter_Schulweg_1_-_Second_Way_to_School_1.png "Second Way to School 1") [![Second Way to School 2](https://en.wiki.accadis-isb.net/images/4/4a/Zweiter_Schulweg_2_-_Second_Way_to_School_2.png)](https://en.wiki.accadis-isb.net/File:Zweiter_Schulweg_2_-_Second_Way_to_School_2.png "Second Way to School 2") [![Second Way to School 3](https://en.wiki.accadis-isb.net/images/4/4a/Zweiter_Schulweg_3_-_Second_Way_to_School_3.png)](https://en.wiki.accadis-isb.net/File:Zweiter_Schulweg_3_-_Second_Way_to_School_3.png "Second Way to School 3") [![Second Way to School 4](https://en.wiki.accadis-isb.net/images/7/7b/Zweiter_Schulweg_4_-_Second_Way_to_School_4.png)](https://en.wiki.accadis-isb.net/File:Zweiter_Schulweg_4_-_Second_Way_to_School_4.png "Second Way to School 4") [![Main Entrance ES + SeS](https://en.wiki.accadis-isb.net/images/a/a7/Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png)](https://en.wiki.accadis-isb.net/File:Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png "Main Entrance ES + SeS")
+[![Second Way to School 1](/en/images/6/68/Zweiter_Schulweg_1_-_Second_Way_to_School_1.png)](/en/File:Zweiter_Schulweg_1_-_Second_Way_to_School_1.png "Second Way to School 1") [![Second Way to School 2](/en/images/4/4a/Zweiter_Schulweg_2_-_Second_Way_to_School_2.png)](/en/File:Zweiter_Schulweg_2_-_Second_Way_to_School_2.png "Second Way to School 2") [![Second Way to School 3](/en/images/4/4a/Zweiter_Schulweg_3_-_Second_Way_to_School_3.png)](/en/File:Zweiter_Schulweg_3_-_Second_Way_to_School_3.png "Second Way to School 3") [![Second Way to School 4](/en/images/7/7b/Zweiter_Schulweg_4_-_Second_Way_to_School_4.png)](/en/File:Zweiter_Schulweg_4_-_Second_Way_to_School_4.png "Second Way to School 4") [![Main Entrance ES + SeS](/en/images/a/a7/Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png)](/en/File:Haupteingang_ES_SeS_-_Main_Entrance_ES_SeS.png "Main Entrance ES + SeS")
 
 ## Travel by car and public transportation\ 
 
@@ -73,11 +73,11 @@ Coming in from the A661, take the exit Bad Homburg Stadtmitte. Take the first ex
 
 The following map, which was kindly provided by the PTA's Road Safety Committee, shows parking options in the immediate vicinity of the school. Parking just minutes away will help you avoid stressful queues, construction traffic and congestion along the Weidenring. And the less traffic at the school gates, the safer it is for students there.
 
-[![Parking options](https://en.wiki.accadis-isb.net/images/1/1c/Parkmoeglichkeiten_-_Parking_options.PNG)](https://en.wiki.accadis-isb.net/File:Parkmoeglichkeiten_-_Parking_options.PNG "Parking options")
+[![Parking options](/en/images/1/1c/Parkmoeglichkeiten_-_Parking_options.PNG)](/en/File:Parkmoeglichkeiten_-_Parking_options.PNG "Parking options")
 
 ## By underground\ 
 
-[![](https://en.wiki.accadis-isb.net/images/thumb/8/8e/Anreise_mit_U-Bahn_-_Travel_by_underground.jpg/300px-Anreise_mit_U-Bahn_-_Travel_by_underground.jpg)](https://en.wiki.accadis-isb.net/File:Anreise_mit_U-Bahn_-_Travel_by_underground.jpg)
+[![](/en/images/thumb/8/8e/Anreise_mit_U-Bahn_-_Travel_by_underground.jpg/300px-Anreise_mit_U-Bahn_-_Travel_by_underground.jpg)](/en/File:Anreise_mit_U-Bahn_-_Travel_by_underground.jpg)
 
 There are three possible ways to get to accadis ISB by underground or train.
 
@@ -89,7 +89,7 @@ With every option, your child can use the footpath „Im Kirschgrund“ to get t
 
 ## By bus\ 
 
-[![](https://en.wiki.accadis-isb.net/images/thumb/8/89/Anreise_mit_Bus_-_Travel_by_bus.jpg/300px-Anreise_mit_Bus_-_Travel_by_bus.jpg)](https://en.wiki.accadis-isb.net/File:Anreise_mit_Bus_-_Travel_by_bus.jpg)
+[![](/en/images/thumb/8/89/Anreise_mit_Bus_-_Travel_by_bus.jpg/300px-Anreise_mit_Bus_-_Travel_by_bus.jpg)](/en/File:Anreise_mit_Bus_-_Travel_by_bus.jpg)
 
 There is one bus stop in the immediate surroundings of accadis ISB:
 
@@ -112,4 +112,4 @@ RMV-Customer Service: 069 / 24 24 80 24
 
 Please use the designated parking area for bicycles and scooters on the right of the visitor parking lot.
 
-[![](https://en.wiki.accadis-isb.net/images/thumb/c/c5/Fahrradparkplatz_-_Bicycle_area.jpg/300px-Fahrradparkplatz_-_Bicycle_area.jpg)](https://en.wiki.accadis-isb.net/File:Fahrradparkplatz_-_Bicycle_area.jpg)
+[![](/en/images/thumb/c/c5/Fahrradparkplatz_-_Bicycle_area.jpg/300px-Fahrradparkplatz_-_Bicycle_area.jpg)](/en/File:Fahrradparkplatz_-_Bicycle_area.jpg)

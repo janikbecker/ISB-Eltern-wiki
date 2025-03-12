@@ -6,7 +6,7 @@
 
 The accadis ISB Office is available Monday to Friday from **07:30 hrs until 16:00 hrs**. You can reach us by email under [office@accadis-isb.com](mailto:office@accadis-isb.com) or by phone under +49 6172 9841-41. In an emergency you may also contact the switchboard of accadis Hochschule at +49 6172 9842-0.
 
-General information is available on the [Parents Portal](https://en.wiki.accadis-isb.net/Parents_Portal "Parents Portal") ([www.parents.accadis-isb.net](http://www.parents.accadis-isb.net/)). You are given access to the portal upon your child joining accadis ISB. If you have any technical problems or questions regarding the Parents Portal please send an email to [it-support@accadis.com](mailto:it-support@accadis.com).
+General information is available on the [Parents Portal](/en/Parents_Portal "Parents Portal") ([www.parents.accadis-isb.net](http://www.parents.accadis-isb.net/)). You are given access to the portal upon your child joining accadis ISB. If you have any technical problems or questions regarding the Parents Portal please send an email to [it-support@accadis.com](mailto:it-support@accadis.com).
 
 You will automatically receive an alert email if new messages are posted in the general sections of your child’s Preschool, Elementary and Secondary School and also the Grade or Group section.
 
@@ -17,7 +17,7 @@ You will automatically receive an alert email if new messages are posted in the 
 ## Preschool\ 
 
 -   **Preschool teachers** | Your child and his or her group.
--   **[Principal Preschool](https://en.wiki.accadis-isb.net/Role:Principal_Preschool "Role:Principal Preschool")** | General topics concerning all Preschool children.
+-   **[Principal Preschool](/en/Role:Principal_Preschool "Role:Principal Preschool")** | General topics concerning all Preschool children.
 
 ## Elementary and Secondary School\ 
 
@@ -25,25 +25,25 @@ You will automatically receive an alert email if new messages are posted in the 
 
 -   **Subject Teacher** | Your child and a specific subject: Subject or course information, class equipment and requirements, homework, curriculum information, student progress.
 
--   **[Administrative Deputy Head](https://en.wiki.accadis-isb.net/Role:Administrative_Deputy_Head "Role:Administrative Deputy Head")** | Administrative school matters: school attendance, organisation of school trips and events, PTA liaison
+-   **[Administrative Deputy Head](/en/Role:Administrative_Deputy_Head "Role:Administrative Deputy Head")** | Administrative school matters: school attendance, organisation of school trips and events, PTA liaison
 
--   **[Academic Deputy Head](https://en.wiki.accadis-isb.net/Role:Academic_Deputy_Head "Role:Academic Deputy Head")** | Academic queries, e.g. curricular matters and queries regarding the IB and IGCSEs
+-   **[Academic Deputy Head](/en/Role:Academic_Deputy_Head "Role:Academic Deputy Head")** | Academic queries, e.g. curricular matters and queries regarding the IB and IGCSEs
 
--   **[Elementary School Coordinator](https://en.wiki.accadis-isb.net/Role:Elementary_School_Coordinator "Role:Elementary School Coordinator")** | Pastoral student care in collaboration with the teaching staff of accadis ES. Topics and initiatives of relevance across year groups.
+-   **[Elementary School Coordinator](/en/Role:Elementary_School_Coordinator "Role:Elementary School Coordinator")** | Pastoral student care in collaboration with the teaching staff of accadis ES. Topics and initiatives of relevance across year groups.
 
--   **[Secondary School Coordinator](https://en.wiki.accadis-isb.net/Role:Secondary_School_Coordinator "Role:Secondary School Coordinator")** | Pastoral student care in collaboration with the teaching staff of accadis SeS. Topics and initiatives of relevance across year groups.
+-   **[Secondary School Coordinator](/en/Role:Secondary_School_Coordinator "Role:Secondary School Coordinator")** | Pastoral student care in collaboration with the teaching staff of accadis SeS. Topics and initiatives of relevance across year groups.
 
 ## Administration\ 
 
--   **[ISB Office Manager](https://en.wiki.accadis-isb.net/Department:Office "Department:Office")** | Administrative queries.
+-   **[ISB Office Manager](/en/Department:Office "Department:Office")** | Administrative queries.
 
--   **[Office](https://en.wiki.accadis-isb.net/Department:Office "Department:Office")** | Reporting absent or sick children (only via [online form](http://accadis.eu/student-absences)), changes in contact details, changes in pick-up information, school certificates etc.
+-   **[Office](/en/Department:Office "Department:Office")** | Reporting absent or sick children (only via [online form](http://accadis.eu/student-absences)), changes in contact details, changes in pick-up information, school certificates etc.
 
--   **[Financial Management](https://en.wiki.accadis-isb.net/Department:Financial_Management "Department:Financial Management") and [Human Resources](https://en.wiki.accadis-isb.net/Department:Human_Resources "Department:Human Resources")** | Financial Management and Contracts | _Please be aware that enquiries are processed in chronological order and cannot always be answered on the same day._
+-   **[Financial Management](/en/Department:Financial_Management "Department:Financial Management") and [Human Resources](/en/Department:Human_Resources "Department:Human Resources")** | Financial Management and Contracts | _Please be aware that enquiries are processed in chronological order and cannot always be answered on the same day._
 
--   **[Marketing and Admissions](https://en.wiki.accadis-isb.net/Department:Marketing_and_Admissions "Department:Marketing and Admissions")** | Enquiries from interested families, suggestions and feedback in relation to marketing, summer camps, afternoon activities, Open House and other events.
+-   **[Marketing and Admissions](/en/Department:Marketing_and_Admissions "Department:Marketing and Admissions")** | Enquiries from interested families, suggestions and feedback in relation to marketing, summer camps, afternoon activities, Open House and other events.
 
--   **[School Library](https://en.wiki.accadis-isb.net/Books,_Learning_Materials_and_Library "Books, Learning Materials and Library")** | Questions, suggestions and feedback related to the school library.
+-   **[School Library](/en/Books,_Learning_Materials_and_Library "Books, Learning Materials and Library")** | Questions, suggestions and feedback related to the school library.
 
 -   **[School caterer FPS CATERING GmbH & Co KG](mailto:team-schulekita@fps-catering.de)** | Any questions and comments regarding lunch.
 

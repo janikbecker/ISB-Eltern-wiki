@@ -4,9 +4,9 @@
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Falls Ihr Kind regelmäßig Medikamente einnehmen muss oder Allergien hat, muss dies in der Schülerakte dokumentiert sein und mit dem Erzieher bzw. [Klassenlehrer](https://de.wiki.accadis-isb.net/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") besprochen werden.
+Falls Ihr Kind regelmäßig Medikamente einnehmen muss oder Allergien hat, muss dies in der Schülerakte dokumentiert sein und mit dem Erzieher bzw. [Klassenlehrer](/de/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") besprochen werden.
 
-Es gibt die Möglichkeit einen Lehrer zu beauftragen, einem Kind bei der Verabreichung von Medikamenten zu helfen, sofern sich der Lehrer hierzu bereit erklärt. Falls Sie einen Lehrer zur Verabreichung von Medikamenten ermächtigen möchten, füllen Sie bitte das Formular “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (im [Elternportal](https://de.wiki.accadis-isb.net/Elternportal "Elternportal") verfügbar) aus und leiten es an den Konrektor (Administration) weiter.
+Es gibt die Möglichkeit einen Lehrer zu beauftragen, einem Kind bei der Verabreichung von Medikamenten zu helfen, sofern sich der Lehrer hierzu bereit erklärt. Falls Sie einen Lehrer zur Verabreichung von Medikamenten ermächtigen möchten, füllen Sie bitte das Formular “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (im [Elternportal](/de/Elternportal "Elternportal") verfügbar) aus und leiten es an den Konrektor (Administration) weiter.
 
 ## Besondere Richtlinien in der Preschool 
 

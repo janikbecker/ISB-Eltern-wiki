@@ -4,9 +4,9 @@
 | Information for Elementary School | yes |
 | Information for Secondary School | yes |
 
-If your child is required to take medication regularly or suffers from allergies, this should be documented in your child’s student file and discussed with the Preschool or [Homeroom Teacher](https://en.wiki.accadis-isb.net/Homeroom_Teacher_and_Subject_Teacher "Homeroom Teacher and Subject Teacher").
+If your child is required to take medication regularly or suffers from allergies, this should be documented in your child’s student file and discussed with the Preschool or [Homeroom Teacher](/en/Homeroom_Teacher_and_Subject_Teacher "Homeroom Teacher and Subject Teacher").
 
-It is possible to give a teacher permission to help your child take necessary medication. However, the teacher has to agree to give the medication. If you would like them to assist your child in this matter, please complete the form “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (available on the [Parents Portal](https://en.wiki.accadis-isb.net/Parents_Portal "Parents Portal")) and submit it to the Administrative Deputy Head.
+It is possible to give a teacher permission to help your child take necessary medication. However, the teacher has to agree to give the medication. If you would like them to assist your child in this matter, please complete the form “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (available on the [Parents Portal](/en/Parents_Portal "Parents Portal")) and submit it to the Administrative Deputy Head.
 
 ## Special Guidelines Preschool\ 
 

@@ -6,11 +6,11 @@
 
 ## Hausaufgaben und Planner in der Elementary School 
 
-Bis zur zweiten Klasse steht das Erlernen des Lesens und Schreibens in deutscher und englischer Sprache im Vordergrund. Wir empfehlen deshalb, dass Sie mit Ihrem Kind zu Hause möglichst viel lesen. Zusätzliche, individuelle Hausaufgaben werden in der Regel nur zum Aufholen von versäumtem Stoff nach [Abwesenheit](https://de.wiki.accadis-isb.net/Anwesenheit,_Abwesenheit,_Unterrichtsausfall_und_Schulpflicht "Anwesenheit, Abwesenheit, Unterrichtsausfall und Schulpflicht") oder bei weiterem Übungsbedarf aufgrund langsamer Arbeitsgeschwindigkeit erteilt.
+Bis zur zweiten Klasse steht das Erlernen des Lesens und Schreibens in deutscher und englischer Sprache im Vordergrund. Wir empfehlen deshalb, dass Sie mit Ihrem Kind zu Hause möglichst viel lesen. Zusätzliche, individuelle Hausaufgaben werden in der Regel nur zum Aufholen von versäumtem Stoff nach [Abwesenheit](/de/Anwesenheit,_Abwesenheit,_Unterrichtsausfall_und_Schulpflicht "Anwesenheit, Abwesenheit, Unterrichtsausfall und Schulpflicht") oder bei weiterem Übungsbedarf aufgrund langsamer Arbeitsgeschwindigkeit erteilt.
 
 Ab dem dritten Schuljahr werden die Schüler an das selbstständige Bearbeiten von Hausaufgaben herangeführt. Die Hausaufgaben notieren die Schüler in ihrem Planner, welcher wöchentlich von Ihnen unterschrieben werden muss. Dies wird jeden Montag kontrolliert um sicherzustellen, dass Sie über Aufgaben und Hausaufgaben informiert sind.
 
-Wir sind eine Ganztagsschule mit einem höheren Stundenumfang und sind bestrebt, zusätzliche Übungen in den Schultag zu integrieren. Dennoch ist Ihre Mithilfe unter Umständen wichtig, wenn es beispielsweise um das Auswendiglernen von Gedichten, den 1+1-Aufgaben, den 1x1-Reihen und das Lesen Üben geht. Ebenso wird Ihr Kind Ihre Unterstützung beim Üben für Tests und Klassenarbeiten benötigen. Die [Fachlehrer](https://de.wiki.accadis-isb.net/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") können Ihnen Tipps zur Unterstützung Ihres Kindes geben.
+Wir sind eine Ganztagsschule mit einem höheren Stundenumfang und sind bestrebt, zusätzliche Übungen in den Schultag zu integrieren. Dennoch ist Ihre Mithilfe unter Umständen wichtig, wenn es beispielsweise um das Auswendiglernen von Gedichten, den 1+1-Aufgaben, den 1x1-Reihen und das Lesen Üben geht. Ebenso wird Ihr Kind Ihre Unterstützung beim Üben für Tests und Klassenarbeiten benötigen. Die [Fachlehrer](/de/Klassenleitung_und_Fachlehrer "Klassenleitung und Fachlehrer") können Ihnen Tipps zur Unterstützung Ihres Kindes geben.
 
 ## Hausaufgaben und Planner in der Secondary School 
 

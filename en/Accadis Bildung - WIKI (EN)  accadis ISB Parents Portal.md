@@ -4,12 +4,12 @@
 | Information for Elementary School | yes |
 | Information for Secondary School | yes |
 
-Since 1980 accadis pursues an integrated approach to education. Internationality, foreign languages, a scientific foundation, practical relevance and personality development thread their way through all areas and levels of education, from Preschool to Elementary School and Secondary School with the International Baccalaureate at accadis ISB, all the way to the graduation and postgraduate degree at accadis Hochschule. A traditional and values-based, family-run business, accadis has thrived without investors or an affiliated chain. Our work is centered on [quality](https://en.wiki.accadis-isb.net/Quality_control "Quality control") and an academic approach.
+Since 1980 accadis pursues an integrated approach to education. Internationality, foreign languages, a scientific foundation, practical relevance and personality development thread their way through all areas and levels of education, from Preschool to Elementary School and Secondary School with the International Baccalaureate at accadis ISB, all the way to the graduation and postgraduate degree at accadis Hochschule. A traditional and values-based, family-run business, accadis has thrived without investors or an affiliated chain. Our work is centered on [quality](/en/Quality_control "Quality control") and an academic approach.
 
 **accadis, ad campum discere, learning in one place: that is our motto.**
 
   
-[![accadis Bildungsansatz](https://en.wiki.accadis-isb.net/images/7/7d/accadis_Bildungsansatz.jpg)](https://en.wiki.accadis-isb.net/File:Accadis_Bildungsansatz.jpg "accadis Bildungsansatz")
+[![accadis Bildungsansatz](/en/images/7/7d/accadis_Bildungsansatz.jpg)](/en/File:Accadis_Bildungsansatz.jpg "accadis Bildungsansatz")
 
 ## Institutionen\ 
 
@@ -31,7 +31,7 @@ accadis ISB teachers, educators or pedagogical assistants are well-qualified and
 
 Teachers conduct their lessons in their respective mother tongue or they have an equivalent command of their teaching language.
 
-As well as teachers accadis ISB has a number of teaching assistants with a degree in social work or who complete a year of voluntary service. The assistants support the teachers in individual subjects, such as [P.E.](https://en.wiki.accadis-isb.net/Physical_Education_and_Swimming "Physical Education and Swimming") and Art, assist in the Primary Class and carry out general duties around the school.
+As well as teachers accadis ISB has a number of teaching assistants with a degree in social work or who complete a year of voluntary service. The assistants support the teachers in individual subjects, such as [P.E.](/en/Physical_Education_and_Swimming "Physical Education and Swimming") and Art, assist in the Primary Class and carry out general duties around the school.
 
 ### Quality control at accadis ISB\ 
 

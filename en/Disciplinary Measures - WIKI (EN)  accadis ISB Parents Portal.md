@@ -10,7 +10,7 @@ Disciplinary measures may be taken as listed below. They are in no special order
 
 -   Verbal warning
 -   Time Out
--   A talk with the [Elementary School Coordinator](https://en.wiki.accadis-isb.net/Role:Elementary_School_Coordinator "Role:Elementary School Coordinator") or [Secondary School Coordinator](https://en.wiki.accadis-isb.net/Role:Secondary_School_Coordinator "Role:Secondary School Coordinator")
+-   A talk with the [Elementary School Coordinator](/en/Role:Elementary_School_Coordinator "Role:Elementary School Coordinator") or [Secondary School Coordinator](/en/Role:Secondary_School_Coordinator "Role:Secondary School Coordinator")
 -   Withdrawal of privileges
 -   Consequence Time
 -   Suspension for up to 5 days

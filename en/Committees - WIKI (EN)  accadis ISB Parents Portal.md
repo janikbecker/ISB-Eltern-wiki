@@ -8,21 +8,21 @@ The following committees support accadis International School Bad Homburg and wo
 
 ## Parent Representatives and Treasurers in Preschool groups\ 
 
-The parents of an accadis Preschool group form the Group Parent Body and appoint a Parent Representative and a Treasurer in each group. Elections for these positions should be held within the first six weeks of the accadis Preschool year, usually during the [Back-to-School-Night](https://en.wiki.accadis-isb.net/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"). The Parent Representatives meet, once per school year with the Preschool Management and Principals.
+The parents of an accadis Preschool group form the Group Parent Body and appoint a Parent Representative and a Treasurer in each group. Elections for these positions should be held within the first six weeks of the accadis Preschool year, usually during the [Back-to-School-Night](/en/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"). The Parent Representatives meet, once per school year with the Preschool Management and Principals.
 
 ## Class Parent Body in Elementary and Secondary School\ 
 
-The parents of a class form the Class Parent Body and appoint from their midst the Parents Council (Parent Representative), his or her Deputy and a Treasurer. Elections for these positions should be held within the first six weeks of the school year, usually during the [Back-to-School-Night](https://en.wiki.accadis-isb.net/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"). If needed, [Homeroom teachers](https://en.wiki.accadis-isb.net/Homeroom_Teacher_and_Subject_Teacher "Homeroom Teacher and Subject Teacher") organize additional [parent evenings](https://en.wiki.accadis-isb.net/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"), for instance ahead of a class trip.
+The parents of a class form the Class Parent Body and appoint from their midst the Parents Council (Parent Representative), his or her Deputy and a Treasurer. Elections for these positions should be held within the first six weeks of the school year, usually during the [Back-to-School-Night](/en/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"). If needed, [Homeroom teachers](/en/Homeroom_Teacher_and_Subject_Teacher "Homeroom Teacher and Subject Teacher") organize additional [parent evenings](/en/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"), for instance ahead of a class trip.
 
 ## School Parents Council of Elementary and Secondary School\ 
 
 The School Parents Council is composed of the Parent Representatives of the Elementary and Secondary School. From its midst a chairperson and a deputy is appointed. The School Parents’ Council meets as required (usually twice a year). At the meeting, the School Management shares relevant school matters with the council.
 
-## Rights and duties of the Parents’ Councils (Parent Representatives) and School Parents’ Councils\[[edit](https://en.wiki.accadis-isb.net/index.php?title=Committees&action=edit&section=4 "Edit section: Rights and duties of the Parents’ Councils (Parent Representatives) and School Parents’ Councils")\]
+## Rights and duties of the Parents’ Councils (Parent Representatives) and School Parents’ Councils\[[edit](/en/index.php?title=Committees&action=edit&section=4 "Edit section: Rights and duties of the Parents’ Councils (Parent Representatives) and School Parents’ Councils")\]
 
 The Parent Representatives are to encourage parents’ interest in the work of accadis ISB and to promote the collaboration between parents, the teaching staff and accadis ISB Management. This includes:
 
--   introduction of proposals on the activities of parent involvement (e.g. regular [parent evenings](https://en.wiki.accadis-isb.net/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"), parent round tables etc.)
+-   introduction of proposals on the activities of parent involvement (e.g. regular [parent evenings](/en/Parent_Evenings,_Parent_Meetings_and_Parent_Teacher_Conferences "Parent Evenings, Parent Meetings and Parent Teacher Conferences"), parent round tables etc.)
 -   support in planning and execution of celebrations, bazaars, excursions etc.
 -   promotion of parents’ understanding of accadis ISB’s educational goals
 -   receipt of requests, inspiration and proposals from parents and submission of these to accadis ISB Management

@@ -5,6 +5,6 @@
 | Information for Secondary School | yes |
 
   
-A list with all supplies your child requires during the school year is available in the download section of the [Parents Portal](https://en.wiki.accadis-isb.net/Parents_Portal "Parents Portal").
+A list with all supplies your child requires during the school year is available in the download section of the [Parents Portal](/en/Parents_Portal "Parents Portal").
 
 However, students may also be asked by individual teachers during the course of the school year to bring in extra materials.

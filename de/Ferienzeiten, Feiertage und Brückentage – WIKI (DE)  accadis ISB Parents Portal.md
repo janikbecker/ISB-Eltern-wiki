@@ -4,6 +4,6 @@
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-Die Schließzeiten der accadis Preschool, Elementary and Secondary School sind im Dokument „Annual Calendar“ aufgeführt, das Sie im [Elternportal](https://de.wiki.accadis-isb.net/Elternportal "Elternportal") im Downloadbereich finden.
+Die Schließzeiten der accadis Preschool, Elementary and Secondary School sind im Dokument „Annual Calendar“ aufgeführt, das Sie im [Elternportal](/de/Elternportal "Elternportal") im Downloadbereich finden.
 
-Alle anderen Termine des laufenden Schuljahres finden Sie im [Elternportal](https://de.wiki.accadis-isb.net/Elternportal "Elternportal") im accadis ISB School Calendar und im Klassenkalender Ihres Kindes.
+Alle anderen Termine des laufenden Schuljahres finden Sie im [Elternportal](/de/Elternportal "Elternportal") im accadis ISB School Calendar und im Klassenkalender Ihres Kindes.
