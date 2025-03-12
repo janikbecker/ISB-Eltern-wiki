@@ -12,14 +12,14 @@ You will automatically receive an alert email if new messages are posted in the 
 
 **However, the school also communicates regularly by email so please check your emails regularly.**
 
-## Contact Persons\ 
+## Contact Persons 
 
-## Preschool\ 
+## Preschool 
 
 -   **Preschool teachers** | Your child and his or her group.
 -   **[Principal Preschool](/ISB-Eltern-wiki/en/Role:Principal_Preschool "Role:Principal Preschool")** | General topics concerning all Preschool children.
 
-## Elementary and Secondary School\ 
+## Elementary and Secondary School 
 
 -   **Homeroom Teacher** | Your child and his or her class: Your child’s general well-being, friendships, questions about daily routines and expectations, general student progress including social and work behavior.
 
@@ -33,7 +33,7 @@ You will automatically receive an alert email if new messages are posted in the 
 
 -   **[Secondary School Coordinator](/ISB-Eltern-wiki/en/Role:Secondary_School_Coordinator "Role:Secondary School Coordinator")** | Pastoral student care in collaboration with the teaching staff of accadis SeS. Topics and initiatives of relevance across year groups.
 
-## Administration\ 
+## Administration 
 
 -   **[ISB Office Manager](/ISB-Eltern-wiki/en/Department:Office "Department:Office")** | Administrative queries.
 
@@ -47,13 +47,13 @@ You will automatically receive an alert email if new messages are posted in the 
 
 -   **[School caterer FPS CATERING GmbH & Co KG](mailto:team-schulekita@fps-catering.de)** | Any questions and comments regarding lunch.
 
-## Concerns and suggestions\ 
+## Concerns and suggestions 
 
 Concerns and suggestions Open communication and a partnership between home and school will help us provide the best education for your child. Whenever a concern or problem arises, please “go to the source” first i.e. go to the person directly involved by either writing to them or making an appointment. This way, teachers can respond quickly to give you first-hand information and, in the spirit of open communication, difficulties can be resolved.
 
 If, after a meeting, the situation remains unresolved or you need more information then please ask to be referred to other school staff, for example the ES or SeS Coordinators or one of the Deputy Heads.
 
-## Cooperation between accadis Preschool and parents\ 
+## Cooperation between accadis Preschool and parents 
 
 People who share a common goal need to co-operate. The common goal of accadis Preschool and parents is to cooperate in the best interests of your child and for all interactions between parents, children and Preschool staff to be based on trust.
 

@@ -6,11 +6,11 @@
 
 Die **accadis ISB Eltern-Lehrer-Vereinigung (PTA)** ist eine gemeinschaftsorientierte Organisation, die engere Beziehungen zwischen Eltern, Schülern und Schulpersonal über die bilinguale Vorschule, die Grundschule und die Sekundarstufe hinweg fördert. Jeder Elternteil eines an der accadis ISB eingeschriebenen Kindes ist automatisch Mitglied, und gemeinsam bemühen wir uns, das Bildungs- und Sozialerlebnis für alle Schüler zu bereichern.
 
-### PTA-Struktur und Leitung\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Eltern-Lehrer-Vereinigung_(PTA)&action=edit&section=1 "Abschnitt bearbeiten: PTA-Struktur und Leitung")\]
+### PTA-Struktur und Leitung
 
 Die PTA wird von einem Vorstand geleitet, der aus dem **Vorsitzenden, dem Kassenwart und den Leitern der einzelnen Komitees** besteht und so gezielt in wichtigen Bereichen zur Verbesserung des Schullebens beiträgt. Den Vorstand unterstützen der **stellvertretende Vorsitzende und der Schriftführer**, die bei der Organisation und Umsetzung der PTA-Initiativen helfen. Der Vorstand umfasst auch **Vertreter der Schule und der Vorschule**, die regelmäßig an den monatlichen Sitzungen während des Schuljahres teilnehmen und die offene Kommunikation zwischen PTA und Schulleitung fördern. Die Vorstandsmitglieder der PTA werden für eine Amtszeit von zwei Jahren gewählt und arbeiten eng mit dem accadis Elternbeirat zusammen, dem sie regelmäßig über Aktivitäten und Fortschritte berichten.
 
-### Komitees und ihre Aufgaben\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Eltern-Lehrer-Vereinigung_(PTA)&action=edit&section=2 "Abschnitt bearbeiten: Komitees und ihre Aufgaben")\]
+### Komitees und ihre Aufgaben
 
 Die PTA ist in fünf Hauptkomitees organisiert, die auf unterschiedliche Weise zur accadis-Gemeinschaft beitragen:
 
@@ -25,15 +25,15 @@ Die PTA ist in fünf Hauptkomitees organisiert, die auf unterschiedliche Weise z
 -   **Uniform-Komitee**  
     Das Uniform-Komitee organisiert regelmäßige Basare für gut erhaltene gebrauchte Uniformen und arbeitet eng mit dem Lieferanten der Schuluniformen zusammen, um Rückmeldungen der Eltern zu berücksichtigen und eine hohe Qualität sowie pünktliche Lieferung sicherzustellen.
 
-### Finanzierung und Finanzen\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Eltern-Lehrer-Vereinigung_(PTA)&action=edit&section=3 "Abschnitt bearbeiten: Finanzierung und Finanzen")\]
+### Finanzierung und Finanzen
 
 Die PTA wird durch jährliche Beiträge finanziert, die über die Klassenkassen eingezogen werden. Diese Beiträge unterstützen sowohl regelmäßige Aktivitäten als auch besondere Projekte, darunter von der Schule genehmigte Veranstaltungen, Verbesserungen an den Einrichtungen und wohltätige Initiativen. Die Finanzen der PTA werden innerhalb des Buchhaltungsteams der Schule verwaltet, wobei alle Transaktionen durch Vorstandsentscheidungen und die Mitunterschrift des Kassenwarts und des Vorsitzenden bestätigt werden. Dies gewährleistet Transparenz und die Einhaltung der finanziellen Richtlinien der PTA.
 
-### Kommunikationskanäle\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Eltern-Lehrer-Vereinigung_(PTA)&action=edit&section=4 "Abschnitt bearbeiten: Kommunikationskanäle")\]
+### Kommunikationskanäle
 
 Um über die Aktivitäten der PTA informiert zu bleiben, wird den Eltern empfohlen, regelmäßig den PTA-Google Classroom zu verfolgen, wo Ankündigungen, Updates und Veranstaltungen veröffentlicht werden. Zusätzlich bietet die PTA WhatsApp Community einen informellen Kommunikationskanal und erfordert den Beitritt interessierter Eltern - [link](https://chat.whatsapp.com/JYdvo3nQdrK6XdauPIPKOP).
 
-### Machen Sie mit!\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Eltern-Lehrer-Vereinigung_(PTA)&action=edit&section=5 "Abschnitt bearbeiten: Machen Sie mit!")\]
+### Machen Sie mit!
 
 Die PTA freut sich auf die Teilnahme und das Engagement der Eltern, um unsere Ziele zu erreichen. Ob Sie bei PTA-Veranstaltungen und Aktivitäten mithelfen oder neue Ideen einbringen können – Ihr Engagement ist stets willkommen. Bei Fragen oder wenn Sie mehr darüber erfahren möchten, wie Sie sich einbringen können, kontaktieren Sie uns gerne unter [pta@parents.accadis-isb.net](mailto:pta@parents.accadis-isb.net).
 

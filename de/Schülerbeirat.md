@@ -1,7 +1,3 @@
-Aus WIKI (DE) | accadis ISB Parents Portal
-
-[Zur Navigation springen](/ISB-Eltern-wiki/de/Sch%C3%BClerbeirat#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Sch%C3%BClerbeirat#searchInput)
-
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | nein |

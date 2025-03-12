@@ -1,19 +1,15 @@
-From WIKI (EN) | accadis ISB Parents Portal
-
-[Jump to navigation](/ISB-Eltern-wiki/en/Contact_persons#mw-head) [Jump to search](/ISB-Eltern-wiki/en/Contact_persons#searchInput)
-
 | Overview |
 | --- |
 | Information for Preschool | yes |
 | Information for Elementary School | yes |
 | Information for Secondary School | yes |
 
-## Preschool\ 
+## Preschool 
 
 -   **Preschool teachers** | Your child and his or her group.
 -   **Principal Preschool** | General topics concerning all Preschool children.
 
-## Elementary and Secondary School\ 
+## Elementary and Secondary School 
 
 -   **Homeroom Teacher** | Your child and his or her class: Your child’s general well-being, friendships, questions about daily routines and expectations, general student progress including social and work behavior.
 
@@ -27,7 +23,7 @@ From WIKI (EN) | accadis ISB Parents Portal
 
 -   **Secondary School Coordinator** | Pastoral student care in collaboration with the teaching staff of accadis SeS. Topics and initiatives of relevance across year groups.
 
-## Administration\ 
+## Administration 
 
 -   **Academic Affairs** | Administrative queries, Reporting absent or sick children (only via online form – see link), changes in contact details, changes in pick-up information, school certificates, summer camps, afternoon activities, etc.
 

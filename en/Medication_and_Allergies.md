@@ -8,7 +8,7 @@ If your child is required to take medication regularly or suffers from allergies
 
 It is possible to give a teacher permission to help your child take necessary medication. However, the teacher has to agree to give the medication. If you would like them to assist your child in this matter, please complete the form “Vereinbarung über die Durchführung von medizinischen Hilfsmaßnahmen” (available on the [Parents Portal](/ISB-Eltern-wiki/en/Parents_Portal "Parents Portal")) and submit it to the Administrative Deputy Head.
 
-## Special Guidelines Preschool\ 
+## Special Guidelines Preschool 
 
 Should your child suffer from a chronic illness or allergy, please let the Principal or your child’s group leader know. Written instructions need to be given in advance, including the type of medication, the way to administer it and the required dosage.
 

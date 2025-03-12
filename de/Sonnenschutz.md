@@ -1,7 +1,3 @@
-Aus WIKI (DE) | accadis ISB Parents Portal
-
-[Zur Navigation springen](/ISB-Eltern-wiki/de/Sonnenschutz#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Sonnenschutz#searchInput)
-
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |

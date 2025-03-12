@@ -4,7 +4,7 @@
 | Information for Elementary School | yes |
 | Information for Secondary School | yes |
 
-## Curriculum at accadis Elementary School\ 
+## Curriculum at accadis Elementary School 
 
 accadis ISB Elementary School follows and exceeds the core _curriculum of the State of Hesse_ and is structured so that the _Hessian educational standards_ are achieved by the end of Grade 4. We provide an academically challenging program and make every effort to support each individual student to fulfil his or her potential.
 
@@ -12,7 +12,7 @@ The following overview shows the number of weekly lessons taught per subject in 
 
 <table><tbody><tr><td></td><td><b>Primary</b></td><td><b>Grade 1</b></td><td><b>Grade 2</b></td><td><b>Grade 3</b></td><td><b>Grade 4</b></td></tr><tr><td>English</td><td>7</td><td>8</td><td>8</td><td>7</td><td>7</td></tr><tr><td>German</td><td>5</td><td>8</td><td>8</td><td>6</td><td>6</td></tr><tr><td>Maths (German)</td><td>0</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>Maths (English)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>Social Studies</td><td>0</td><td>2</td><td>2</td><td>4</td><td>4</td></tr><tr><td>Science</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Music</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Art</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>Physical Education</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>Ethics</td><td>0</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>Individual Studies</td><td>0</td><td>1</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Free Play</td><td>10</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td><b>Total lessons per week</b></td><td><b>35</b></td><td><b>35</b></td><td><b>35</b></td><td><b>35</b></td><td><b>35</b></td></tr><tr><td><b>Optional lessons</b></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Spanish Club</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Choir</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr></tbody></table>
 
-## Curriculum at accadis Secondary School\ 
+## Curriculum at accadis Secondary School 
 
 accadis Secondary School is a state approved alternative school within the German school system, which focuses on internationality and languages. Our curriculum is a blend of Hessian and Cambridge International Examinations which ensures that the main expectations of the Hessian Key Standards and IGCSE exams (International General Certificate of Secondary Education) are met by the end of Grade 10. We provide an academically challenging curriculum and, if required, offer sup-port to those who need it.
 

@@ -11,11 +11,11 @@ Since 1980 accadis pursues an integrated approach to education. Internationality
   
 [![accadis Bildungsansatz](/ISB-Eltern-wiki/en/images/7/7d/accadis_Bildungsansatz.jpg)](/ISB-Eltern-wiki/en/File:Accadis_Bildungsansatz.jpg "accadis Bildungsansatz")
 
-## Institutionen\ 
+## Institutionen 
 
-## International School\ 
+## International School 
 
-### Vision\ 
+### Vision 
 
 accadis ISB aims to develop confident, knowledgeable and caring young people who are prepared to create a better future. Challenging programs combined with inter-cultural understanding and respect enable our students to maximize their potential and become compassionate and lifelong learners.
 
@@ -25,7 +25,7 @@ We believe in future-oriented education. The International Baccalaurate Diploma 
 
 Every child is unique. With the aid of individualized support we therefore wish to instill a desire to learn in all of our students and for them to become self-motivated and responsible young people who enjoy coming to school. By learning in a bilingual environment alongside classmates and teachers from all over countries, we are convinced that our students do not only improve their language skills but also increase their understanding and respect for other cultures. By the time they leave school they are prepared for a life in an increasingly global society.
 
-### Teachers and educators\ 
+### Teachers and educators 
 
 accadis ISB teachers, educators or pedagogical assistants are well-qualified and many have international experience. All teachers meet the requirements to receive a teaching permission by the by the Hessian Education Authority.
 
@@ -33,7 +33,7 @@ Teachers conduct their lessons in their respective mother tongue or they have an
 
 As well as teachers accadis ISB has a number of teaching assistants with a degree in social work or who complete a year of voluntary service. The assistants support the teachers in individual subjects, such as [P.E.](/ISB-Eltern-wiki/en/Physical_Education_and_Swimming "Physical Education and Swimming") and Art, assist in the Primary Class and carry out general duties around the school.
 
-### Quality control at accadis ISB\ 
+### Quality control at accadis ISB 
 
 As well as incorporating regular curriculum revisions, accadis ISB continuously appraises its own curriculum as part of its focus on quality control. This ensures that new topics and methods can be evaluated and, if appropriate, adopted into the existing program.
 
@@ -43,7 +43,7 @@ In the Elementary School, a recognized “Ersatzschule” (alternative school), 
 
 All teachers meet the requirements to receive a teaching permission by the Hessian Education Authority. Additionally, the Head of School regularly visits classes in all grades to guarantee a high level of quality.
 
-## Hochschule\ 
+## Hochschule 
 
 International, practice-oriented and a modular curriculum – these are the distinguishing factors of accadis Hochschule Bad Homburg. As a state-recognized Hochschule accredited by the German Council of Science and Humanities and a focus on management, accadis Hochschule prepares its students to take on executive positions in an international environment. Management and communication skills as well as social competencies acquired through a consolidated professional education and innovative courses distinguish accadis Hochschule graduates from their competitors.
 

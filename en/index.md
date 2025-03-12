@@ -1,4 +1,4 @@
-## Welcome to the accadis International School Bad Homburg – accadis ISB!\ 
+## Welcome to the accadis International School Bad Homburg – accadis ISB! 
 
 Dear Parents,
 
@@ -21,7 +21,7 @@ Head of School
 
 _This handbook uses gender-neutral references when referring to staff, parents and students._ Naturally, all references apply to all genders.
 
-## Information Preschool\ 
+## Information Preschool 
 
 -   [accadis Bildung](/ISB-Eltern-wiki/en/Accadis_Bildung "accadis Bildung")
 -   [Accidents at school](/ISB-Eltern-wiki/en/Accidents_at_school "Accidents at school")
@@ -62,7 +62,7 @@ _This handbook uses gender-neutral references when referring to staff, parents a
 -   [The immersion method at accadis Preschool and Elementary School](/ISB-Eltern-wiki/en/The_immersion_method_at_accadis_Preschool_and_Elementary_School "The immersion method at accadis Preschool and Elementary School")
 -   [Toilet training](/ISB-Eltern-wiki/en/Toilet_training "Toilet training")
 
-## Information Elementary School\ 
+## Information Elementary School 
 
 -   [accadis Bildung](/ISB-Eltern-wiki/en/Accadis_Bildung "accadis Bildung")
 -   [Accidents at school](/ISB-Eltern-wiki/en/Accidents_at_school "Accidents at school")
@@ -117,7 +117,7 @@ _This handbook uses gender-neutral references when referring to staff, parents a
 -   [Supervision](/ISB-Eltern-wiki/en/Supervision "Supervision")
 -   [The immersion method at accadis Preschool and Elementary School](/ISB-Eltern-wiki/en/The_immersion_method_at_accadis_Preschool_and_Elementary_School "The immersion method at accadis Preschool and Elementary School")
 
-## Information Secondary School\ 
+## Information Secondary School 
 
 -   [accadis Bildung](/ISB-Eltern-wiki/en/Accadis_Bildung "accadis Bildung")
 -   [Accidents at school](/ISB-Eltern-wiki/en/Accidents_at_school "Accidents at school")
@@ -169,7 +169,7 @@ _This handbook uses gender-neutral references when referring to staff, parents a
 -   [Student ID](/ISB-Eltern-wiki/en/Student_ID "Student ID")
 -   [Supervision](/ISB-Eltern-wiki/en/Supervision "Supervision")
 
-## Forms\ 
+## Forms 
 
 -   [Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children.pdf](/ISB-Eltern-wiki/en/File:Abholformular_f%C3%BCr_Kinder_der_Preschool_-_Pick-up_Form_for_Preschool_Children.pdf "File:Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children.pdf")
 -   [accadis ISB Internet-Richtlinien - accadis ISB Social Media Guidelines.pdf](/ISB-Eltern-wiki/en/File:Accadis_ISB_Internet-Richtlinien_-_accadis_ISB_Social_Media_Guidelines.pdf "File:accadis ISB Internet-Richtlinien - accadis ISB Social Media Guidelines.pdf")

@@ -8,7 +8,7 @@ Why drive to school with your own car every day when there are several other acc
 
 To make car sharing easy, we have created an **interactive map** that allows you to find other parents in the surrounding area of where you live. Naturally, all families‘ names have been anonymized on this map. Contact us via the [contact form](https://www.accadis-isb.eu/isb-anfragen-inquiries) to get in touch with another family.
 
-## Inquiry process\ 
+## Inquiry process 
 
 1.  You check the interactive map to see which family you are interested in carpooling with. You find the interactive map [here](https://www.google.com/maps/d/viewer?mid=1JheU_hlsGTp6HCnmUtGYEgngI2A&ll=50.221416233629206%2C8.580290449999985&z=10).  
     

@@ -1,7 +1,3 @@
-From WIKI (EN) | accadis ISB Parents Portal
-
-[Jump to navigation](/ISB-Eltern-wiki/en/Student_Council#mw-head) [Jump to search](/ISB-Eltern-wiki/en/Student_Council#searchInput)
-
 | Overview |
 | --- |
 | Information for Preschool | no |

@@ -1,7 +1,3 @@
-From WIKI (EN) | accadis ISB Parents Portal
-
-[Jump to navigation](/ISB-Eltern-wiki/en/School_Photographer#mw-head) [Jump to search](/ISB-Eltern-wiki/en/School_Photographer#searchInput)
-
 | Overview |
 | --- |
 | Information for Preschool | yes |

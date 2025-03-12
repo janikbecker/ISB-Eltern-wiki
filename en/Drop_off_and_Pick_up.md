@@ -4,7 +4,7 @@
 | Information for Elementary School | yes |
 | Information for Secondary School | yes |
 
-## Drop-off and Pick-up at the Preschool\ 
+## Drop-off and Pick-up at the Preschool 
 
 |   | Drop-off-time | Pick-up-time |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Please state on the Pick-up Form ( [Abholformular für Kinder der Preschool - Pi
 
 Should there ever be a delay, please inform the school after 16:00 hrs on the usual number and follow the instructions on the recorded message. You will be forwarded accordingly. We kindly ask you to pick up your child on time and that delays remain the exception.
 
-## Drop-off and Pick-up in the Elementary and Secondary School\ 
+## Drop-off and Pick-up in the Elementary and Secondary School 
 
 |   | Drop-off-time | Pick-up-time |
 | --- | --- | --- |
@@ -35,13 +35,13 @@ Should there ever be a delay, please inform the school after 16:00 hrs on the us
 | Secondary School | 07:45 to 08:15 hrs | 15:15 hrs |
 | After School Activities |   | depending on booked program, until 17:00 hrs at the latest |
 
-## Arrival of students in the morning\ 
+## Arrival of students in the morning 
 
 Gates and the entrance door into the cafeteria will be opened at 07:45 hrs, and members of staff will be welcoming your children from this time. Please leave your children with them and do not come into the cafeteria yourself.
 
 All students should arrive no later than 08:10 hrs. The doors to the cafeteria will be locked at 08:15 hrs. This is to ensure that the valuable homeroom time can be used properly by the homeroom teachers: preparing the students for the day, disseminating information, sharing news, addressing concerns and working on projects that foster the class cohesion and communication among the students. Please support the school in this by ensuring that your child arrives with plenty of time to spare.
 
-## Late Arrival\ 
+## Late Arrival 
 
 All students who arrive after 08:15 will be marked late in the attendance register. This information will also be noted in the report card.
 
@@ -49,12 +49,12 @@ If your child is late owing to unexpected circumstances, a school assistant is o
 
 If your child arrives at school after 09:00 hrs, for example after a doctor's appointment, please advise the school the day before via the online absence form and use the visitor entrance (Am Weidenring 56). You may be asked to wait with your child until a member of staff is available to take students to their classrooms.
 
-## Drop off schematic\ 
+## Drop off schematic 
 
 Please follow this schematic when dropping off your child.
 
 [![Drop off schematic](/ISB-Eltern-wiki/en/images/3/3d/Bring-Schematik_Drop_off_schematic.jpg)](/ISB-Eltern-wiki/en/File:Bring-Schematik_Drop_off_schematic.jpg "Drop off schematic") [![Drop off schematic 2](/ISB-Eltern-wiki/en/images/5/51/Bring-Schematik_2_-_Drop_off_schematic_2.jpg)](/ISB-Eltern-wiki/en/File:Bring-Schematik_2_-_Drop_off_schematic_2.jpg "Drop off schematic 2")
 
-## Pick-up arrangements\ 
+## Pick-up arrangements 
 
 Children in Primary and Grade 1 must be collected by an adult. All older children are allowed to leave the premises independently, if you have arranged with them to do so. Please remember that parking spaces at school are limited, so we appreciate if you park further away if you are coming by car. Please do not use the private spaces of neighboring businesses and do not block parking bays along the street. Access for the emergency services must be maintained at all times. Please respect the ‘no stopping’ signs along the road and in the roundabout. Also please do not park in the visitor's parking spaces for prolonged periods of time, but vacate the spaces as soon as possible to allow other parents to use them. Many thanks.

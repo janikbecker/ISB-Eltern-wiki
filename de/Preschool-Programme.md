@@ -1,7 +1,3 @@
-Aus WIKI (DE) | accadis ISB Parents Portal
-
-[Zur Navigation springen](/ISB-Eltern-wiki/de/Preschool-Programme#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Preschool-Programme#searchInput)
-
 | Übersicht | |
 | --- | --- |
 | Seite betrifft Preschool | ja |
