@@ -8,9 +8,3 @@ Am letzten Tag vor den Sommerferien werden die [Zeugnisse](/ISB-Eltern-wiki/de/L
 
 Es steht eine Betreuung bis 15:15 Uhr zur Verfügung. Auch die Nachmittagsbetreuung bis 17:00 Uhr findet statt.
 
-Abgerufen von „[/ISB-Eltern-wiki/de/index.php?title=Letzter\_Schultag\_vor\_den\_Sommerferien&oldid=596](/ISB-Eltern-wiki/de/index.php?title=Letzter_Schultag_vor_den_Sommerferien&oldid=596)“
-
-[Kategorien](/ISB-Eltern-wiki/de/Spezial:Kategorien "Spezial:Kategorien"):
-
--   [Elementary School](/ISB-Eltern-wiki/de/Kategorie:Elementary_School "Kategorie:Elementary School")
--   [Secondary School](/ISB-Eltern-wiki/de/Kategorie:Secondary_School "Kategorie:Secondary School")

@@ -6,9 +6,3 @@
 
 Bitte sorgen Sie dafür, dass Ihr Kind bei entsprechendem Wetter Sonnencreme aufgetragen hat bzw. geben Sie Sonnencreme mit in die accadis ISB. Außerdem bitten wir Sie, dass Ihr Kind einen Sonnenschutz, z. B. eine Kappe mitbringt.
 
-Abgerufen von „[/ISB-Eltern-wiki/de/index.php?title=Sonnenschutz&oldid=517](/ISB-Eltern-wiki/de/index.php?title=Sonnenschutz&oldid=517)“
-
-[Kategorien](/ISB-Eltern-wiki/de/Spezial:Kategorien "Spezial:Kategorien"):
-
--   [Preschool](/ISB-Eltern-wiki/de/Kategorie:Preschool "Kategorie:Preschool")
--   [Elementary School](/ISB-Eltern-wiki/de/Kategorie:Elementary_School "Kategorie:Elementary School")
