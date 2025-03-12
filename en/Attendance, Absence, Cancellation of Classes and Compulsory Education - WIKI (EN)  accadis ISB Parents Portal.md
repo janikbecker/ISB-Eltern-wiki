@@ -14,7 +14,7 @@ All members of the accadis ISB community, parents, students and teachers, are wo
 
 ## Punctuality\ 
 
-Homeroom starts at 08:15 hrs and ends at 08:30 hrs. [Teachers](/en/Homeroom_Teacher_and_Subject_Teacher) take the students’ attendance during Homeroom. Students are expected to be in their Homeroom registration period at 08:15 hrs, when important announcements and news for the day are given. Poor punctuality is not acceptable. If a student arrives late this will be recorded in the attendance register and noted on the [report card](/en/Grades_and_Report_Cards).
+Homeroom starts at 08:15 hrs and ends at 08:30 hrs. [Teachers](/ISB-Eltern-wiki/en/Homeroom_Teacher_and_Subject_Teacher) take the students’ attendance during Homeroom. Students are expected to be in their Homeroom registration period at 08:15 hrs, when important announcements and news for the day are given. Poor punctuality is not acceptable. If a student arrives late this will be recorded in the attendance register and noted on the [report card](/ISB-Eltern-wiki/en/Grades_and_Report_Cards).
 
 ## Why regular attendance is so important?\ 
 
@@ -28,7 +28,7 @@ Homeroom starts at 08:15 hrs and ends at 08:30 hrs. [Teachers](/en/Homeroom_Teac
 
 Ensuring your child’s regular attendance at school is the parents’ responsibility, unless the reason for the absence is unavoidable.
 
-Parents are informed about their child’s attendance as part of the [Report Card](/en/Grades_and_Report_Cards) issued at the end of each semester.
+Parents are informed about their child’s attendance as part of the [Report Card](/ISB-Eltern-wiki/en/Grades_and_Report_Cards) issued at the end of each semester.
 
 ## Illness\ 
 
@@ -99,7 +99,7 @@ A student becomes a “persistent absentee” when his or her attendance record 
 
 **If a student is absent from school for more than 18 days in an academic year, he or she may not be promoted to the next grade level at the end of the year.**
 
-All absences, authorized or unauthorized, shall be recorded on the [report card](/en/Grades_and_Report_Cards "Grades and Report Cards").
+All absences, authorized or unauthorized, shall be recorded on the [report card](/ISB-Eltern-wiki/en/Grades_and_Report_Cards "Grades and Report Cards").
 
 ## Unscheduled cancellation of classes\ 
 

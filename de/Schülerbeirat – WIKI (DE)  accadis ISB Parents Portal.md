@@ -1,6 +1,6 @@
 Aus WIKI (DE) | accadis ISB Parents Portal
 
-[Zur Navigation springen](/de/Sch%C3%BClerbeirat#mw-head) [Zur Suche springen](/de/Sch%C3%BClerbeirat#searchInput)
+[Zur Navigation springen](/ISB-Eltern-wiki/de/Sch%C3%BClerbeirat#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Sch%C3%BClerbeirat#searchInput)
 
 | Übersicht | |
 | --- | --- |
@@ -10,8 +10,8 @@ Aus WIKI (DE) | accadis ISB Parents Portal
 
 Jede Klasse wählt zwei Schüler, die sie im Schülerbeirat vertreten. Der Schülerbeirat trifft sich regelmäßig mit der Schulleitung der Secondary School.
 
-Abgerufen von „[/de/index.php?title=Schülerbeirat&oldid=576](/de/index.php?title=Sch%C3%BClerbeirat&oldid=576)“
+Abgerufen von „[/ISB-Eltern-wiki/de/index.php?title=Schülerbeirat&oldid=576](/ISB-Eltern-wiki/de/index.php?title=Sch%C3%BClerbeirat&oldid=576)“
 
-[Kategorie](/de/Spezial:Kategorien "Spezial:Kategorien"):
+[Kategorie](/ISB-Eltern-wiki/de/Spezial:Kategorien "Spezial:Kategorien"):
 
--   [Secondary School](/de/Kategorie:Secondary_School "Kategorie:Secondary School")
+-   [Secondary School](/ISB-Eltern-wiki/de/Kategorie:Secondary_School "Kategorie:Secondary School")

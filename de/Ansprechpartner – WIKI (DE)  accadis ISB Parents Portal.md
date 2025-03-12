@@ -1,6 +1,6 @@
 Aus WIKI (DE) | accadis ISB Parents Portal
 
-[Zur Navigation springen](/de/Ansprechpartner#mw-head) [Zur Suche springen](/de/Ansprechpartner#searchInput)
+[Zur Navigation springen](/ISB-Eltern-wiki/de/Ansprechpartner#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Ansprechpartner#searchInput)
 
 | Übersicht | |
 | --- | --- |

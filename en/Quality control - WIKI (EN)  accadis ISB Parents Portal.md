@@ -4,7 +4,7 @@
 | Information for Elementary School | yes |
 | Information for Secondary School | yes |
 
-As well as incorporating regular curriculum revisions, accadis ISB continuously appraises its own [curriculum](/en/Curriculum "Curriculum") as part of its focus on quality control. This ensures that new topics and methods can be evaluated and, if appropriate, adopted into the existing program.
+As well as incorporating regular curriculum revisions, accadis ISB continuously appraises its own [curriculum](/ISB-Eltern-wiki/en/Curriculum "Curriculum") as part of its focus on quality control. This ensures that new topics and methods can be evaluated and, if appropriate, adopted into the existing program.
 
 Our Preschool curriculum is based on the Education Plan for children aged 0 to 10 (Bildungs- und Erziehungsplan für Kinder von 0 bis 10 Jahren).
 

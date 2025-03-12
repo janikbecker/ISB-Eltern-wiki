@@ -1,6 +1,6 @@
 From WIKI (EN) | accadis ISB Parents Portal
 
-[Jump to navigation](/en/Contact_persons#mw-head) [Jump to search](/en/Contact_persons#searchInput)
+[Jump to navigation](/ISB-Eltern-wiki/en/Contact_persons#mw-head) [Jump to search](/ISB-Eltern-wiki/en/Contact_persons#searchInput)
 
 | Overview |
 | --- |

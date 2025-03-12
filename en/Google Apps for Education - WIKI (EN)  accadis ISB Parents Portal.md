@@ -6,7 +6,7 @@
 
 ## Google Apps for Education\ 
 
-accadis ISB uses Google Apps for Education System which is widely used in schools worldwide. This system provides many functions, and teachers and students benefit from its many advantages. Students learn how to use the system in their IT lessons and also from their [subject teachers](/en/Homeroom_Teacher_and_Subject_Teacher "Homeroom Teacher and Subject Teacher").
+accadis ISB uses Google Apps for Education System which is widely used in schools worldwide. This system provides many functions, and teachers and students benefit from its many advantages. Students learn how to use the system in their IT lessons and also from their [subject teachers](/ISB-Eltern-wiki/en/Homeroom_Teacher_and_Subject_Teacher "Homeroom Teacher and Subject Teacher").
 
 ## Provision of an Email Account\ 
 

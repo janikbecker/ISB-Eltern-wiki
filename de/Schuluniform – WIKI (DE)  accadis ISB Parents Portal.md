@@ -1,6 +1,6 @@
 Aus WIKI (DE) | accadis ISB Parents Portal
 
-[Zur Navigation springen](/de/Schuluniform#mw-head) [Zur Suche springen](/de/Schuluniform#searchInput)
+[Zur Navigation springen](/ISB-Eltern-wiki/de/Schuluniform#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Schuluniform#searchInput)
 
 | Übersicht | |
 | --- | --- |
@@ -10,11 +10,11 @@ Aus WIKI (DE) | accadis ISB Parents Portal
 
 Bei accadis ISB sind wir sehr stolz auf unsere Schuluniform, die zum Zugehörigkeitsgefühl der Schüler beiträgt. Alle Schüler tragen sie täglich. Im Anhang finden Sie eine Übersicht zur Regelung der Schuluniform.
 
-[Schuluniform-Regeln - School Uniform Rules](/de/Datei:Schuluniform-Regeln_-_School_Uniform_Rules.pdf "Datei:Schuluniform-Regeln - School Uniform Rules.pdf")
+[Schuluniform-Regeln - School Uniform Rules](/ISB-Eltern-wiki/de/Datei:Schuluniform-Regeln_-_School_Uniform_Rules.pdf "Datei:Schuluniform-Regeln - School Uniform Rules.pdf")
 
-Abgerufen von „[/de/index.php?title=Schuluniform&oldid=1716](/de/index.php?title=Schuluniform&oldid=1716)“
+Abgerufen von „[/ISB-Eltern-wiki/de/index.php?title=Schuluniform&oldid=1716](/ISB-Eltern-wiki/de/index.php?title=Schuluniform&oldid=1716)“
 
-[Kategorien](/de/Spezial:Kategorien "Spezial:Kategorien"):
+[Kategorien](/ISB-Eltern-wiki/de/Spezial:Kategorien "Spezial:Kategorien"):
 
--   [Elementary School](/de/Kategorie:Elementary_School "Kategorie:Elementary School")
--   [Secondary School](/de/Kategorie:Secondary_School "Kategorie:Secondary School")
+-   [Elementary School](/ISB-Eltern-wiki/de/Kategorie:Elementary_School "Kategorie:Elementary School")
+-   [Secondary School](/ISB-Eltern-wiki/de/Kategorie:Secondary_School "Kategorie:Secondary School")

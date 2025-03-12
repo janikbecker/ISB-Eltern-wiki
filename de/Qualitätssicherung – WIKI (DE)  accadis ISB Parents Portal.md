@@ -4,7 +4,7 @@
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-accadis ISB führt im Rahmen der regelmäßigen Überarbeitung und Anpassung des [Curriculums](/de/Curriculum "Curriculum") permanent Qualitätskontrollen durch. So wird gewährleistet, dass neue Themen oder zukunftsweisende Methoden geprüft und gegebenenfalls in das bestehende Programm integriert werden können.
+accadis ISB führt im Rahmen der regelmäßigen Überarbeitung und Anpassung des [Curriculums](/ISB-Eltern-wiki/de/Curriculum "Curriculum") permanent Qualitätskontrollen durch. So wird gewährleistet, dass neue Themen oder zukunftsweisende Methoden geprüft und gegebenenfalls in das bestehende Programm integriert werden können.
 
 Das internationale Curriculum unserer Preschool basiert auf dem Bildungs- und Erziehungsplan für Kinder von 0 bis 10 Jahren.
 

@@ -4,7 +4,7 @@
 | Seite betrifft Elementary School | ja |
 | Seite betrifft Secondary School | ja |
 
-## Sportunterricht\[[Bearbeiten](/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=1 "Abschnitt bearbeiten: Sportunterricht")\]
+## Sportunterricht\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=1 "Abschnitt bearbeiten: Sportunterricht")\]
 
 Damit der Sportunterricht zügig stattfinden kann, sollte am Sporttag im Hinblick auf Kleidung Folgendes beachtet werden:
 
@@ -16,19 +16,19 @@ Damit der Sportunterricht zügig stattfinden kann, sollte am Sporttag im Hinblic
 
 Falls ein Schüler aus Krankheitsgründen nicht oder nur eingeschränkt am Sportunterricht teilnehmen kann, benötigen wir eine schriftliche Entschuldigung, und ggf. ein ärztliches Attest bei längerfristiger Beeinträchtigung. Dies gilt ebenso für den Schwimmunterricht.
 
-## Schwimmen\[[Bearbeiten](/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=2 "Abschnitt bearbeiten: Schwimmen")\]
+## Schwimmen\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=2 "Abschnitt bearbeiten: Schwimmen")\]
 
 Alle Schüler der 3., 6. und 8. Klasse nehmen am Schwimmunterricht teil. Die Kosten für den Transport tragen die Eltern.
 
 Während des Schwimmunterrichts und auf der Busfahrt muss jeder Schüler den Anweisungen des Lehrers folgen, sich ruhig und besonnen verhalten und jederzeit bei der Gruppe bleiben. Schüler, die sich nicht an diese Regelung halten, dürfen nicht am Schwimmunterricht teilnehmen.
 
-## Bouldern\[[Bearbeiten](/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=3 "Abschnitt bearbeiten: Bouldern")\]
+## Bouldern\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=3 "Abschnitt bearbeiten: Bouldern")\]
 
 Alle Schüler der 9. Klasse nehmen am Boulderunterricht teil. Die Kosten für den Eintritt in die Boulderhalle und den Transport tragen die Eltern.
 
 Während des Boulderunterrichts und auf der Busfahrt muss jeder Schüler den Anweisungen des Lehrers folgen, sich ruhig und besonnen verhalten und jederzeit bei der Gruppe bleiben. Schüler, die sich nicht an diese Regelung halten, dürfen nicht am Boulderunterricht teilnehmen.
 
-## Klettern\[[Bearbeiten](/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=4 "Abschnitt bearbeiten: Klettern")\]
+## Klettern\[[Bearbeiten](/ISB-Eltern-wiki/de/index.php?title=Sportunterricht_(Schwimmen,_Bouldern_und_Klettern)&action=edit&section=4 "Abschnitt bearbeiten: Klettern")\]
 
 Alle Schüler der 10. Klasse nehmen am Kletterunterricht teil. Die Kosten für den Eintritt in die Kletterhalle und den Transport tragen die Eltern.
 

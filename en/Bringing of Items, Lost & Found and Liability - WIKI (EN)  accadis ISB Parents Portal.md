@@ -10,7 +10,7 @@ For safety reasons, leather balls or other hard balls are banned from school gro
 
 ## Mobile phones\ 
 
-accadis ISB students are not allowed to use a mobile phone at school. If you would like your child to carry a phone for the journey to and from school, please be aware that it must be switched off and stored in the student’s [locker](/en/Lockers "Lockers") during the school day. The same rule applies to other electronic devices, such as smart watches, tablets, games consoles etc. Please do not attempt to call your child on the mobile or to leave messages whilst he or she is at school.
+accadis ISB students are not allowed to use a mobile phone at school. If you would like your child to carry a phone for the journey to and from school, please be aware that it must be switched off and stored in the student’s [locker](/ISB-Eltern-wiki/en/Lockers "Lockers") during the school day. The same rule applies to other electronic devices, such as smart watches, tablets, games consoles etc. Please do not attempt to call your child on the mobile or to leave messages whilst he or she is at school.
 
 ## Lost & Found\ 
 
@@ -18,7 +18,7 @@ Please label your child’s belongings with their name (sport clothes, jackets, 
 
 Any lunch boxes and drinking bottles containing leftover food will be disposed of each Friday afternoon.
 
-Any items that have not been collected by the last day of school before the winter, Easter or summer break are given to aid organizations or disposed of during the school [holiday](/en/Holidays,_Public_Holidays_and_Bridge_Days "Holidays, Public Holidays and Bridge Days").
+Any items that have not been collected by the last day of school before the winter, Easter or summer break are given to aid organizations or disposed of during the school [holiday](/ISB-Eltern-wiki/en/Holidays,_Public_Holidays_and_Bridge_Days "Holidays, Public Holidays and Bridge Days").
 
 ## Liability\ 
 

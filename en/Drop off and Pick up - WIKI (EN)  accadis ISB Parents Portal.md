@@ -21,9 +21,9 @@ Children can generally be dropped off at the accadis Preschool until 11:30 am. B
 
 We are happy to look after your children until 15:15 hrs. After that time supervision time ends for the groups. If you require supervision until 16:55 hrs, please enter the required option when signing the contract. Please always collect your child on time.
 
-Preschool students can be picked up between 14:50 and 16:55 hrs. The school day and the school’s [supervision](/en/Supervision "Supervision") duty ends at 16:55 hrs. Therefore, it is important that you pick up your child punctually and reliably every day.
+Preschool students can be picked up between 14:50 and 16:55 hrs. The school day and the school’s [supervision](/ISB-Eltern-wiki/en/Supervision "Supervision") duty ends at 16:55 hrs. Therefore, it is important that you pick up your child punctually and reliably every day.
 
-Please state on the Pick-up Form ( [Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children](/en/images/5/5b/Abholformular_f%C3%BCr_Kinder_der_Preschool_-_Pick-up_Form_for_Preschool_Children.pdf "Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children.pdf")) which persons are authorized to pick up your child. If your child is picked up by another Preschool parent, please inform the group teachers in person or via the online form well in advance.
+Please state on the Pick-up Form ( [Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children](/ISB-Eltern-wiki/en/images/5/5b/Abholformular_f%C3%BCr_Kinder_der_Preschool_-_Pick-up_Form_for_Preschool_Children.pdf "Abholformular für Kinder der Preschool - Pick-up Form for Preschool Children.pdf")) which persons are authorized to pick up your child. If your child is picked up by another Preschool parent, please inform the group teachers in person or via the online form well in advance.
 
 Should there ever be a delay, please inform the school after 16:00 hrs on the usual number and follow the instructions on the recorded message. You will be forwarded accordingly. We kindly ask you to pick up your child on time and that delays remain the exception.
 
@@ -53,7 +53,7 @@ If your child arrives at school after 09:00 hrs, for example after a doctor's ap
 
 Please follow this schematic when dropping off your child.
 
-[![Drop off schematic](/en/images/3/3d/Bring-Schematik_Drop_off_schematic.jpg)](/en/File:Bring-Schematik_Drop_off_schematic.jpg "Drop off schematic") [![Drop off schematic 2](/en/images/5/51/Bring-Schematik_2_-_Drop_off_schematic_2.jpg)](/en/File:Bring-Schematik_2_-_Drop_off_schematic_2.jpg "Drop off schematic 2")
+[![Drop off schematic](/ISB-Eltern-wiki/en/images/3/3d/Bring-Schematik_Drop_off_schematic.jpg)](/ISB-Eltern-wiki/en/File:Bring-Schematik_Drop_off_schematic.jpg "Drop off schematic") [![Drop off schematic 2](/ISB-Eltern-wiki/en/images/5/51/Bring-Schematik_2_-_Drop_off_schematic_2.jpg)](/ISB-Eltern-wiki/en/File:Bring-Schematik_2_-_Drop_off_schematic_2.jpg "Drop off schematic 2")
 
 ## Pick-up arrangements\ 
 

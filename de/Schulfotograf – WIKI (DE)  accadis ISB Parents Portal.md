@@ -1,6 +1,6 @@
 Aus WIKI (DE) | accadis ISB Parents Portal
 
-[Zur Navigation springen](/de/Schulfotograf#mw-head) [Zur Suche springen](/de/Schulfotograf#searchInput)
+[Zur Navigation springen](/ISB-Eltern-wiki/de/Schulfotograf#mw-head) [Zur Suche springen](/ISB-Eltern-wiki/de/Schulfotograf#searchInput)
 
 | Übersicht | |
 | --- | --- |
@@ -10,10 +10,10 @@ Aus WIKI (DE) | accadis ISB Parents Portal
 
 Die Schule beauftragt einen professionellen Fotografen, Fotos einzelner Schüler und der Klassen zu machen. Eltern können diese Fotos erwerben.
 
-Abgerufen von „[/de/index.php?title=Schulfotograf&oldid=516](/de/index.php?title=Schulfotograf&oldid=516)“
+Abgerufen von „[/ISB-Eltern-wiki/de/index.php?title=Schulfotograf&oldid=516](/ISB-Eltern-wiki/de/index.php?title=Schulfotograf&oldid=516)“
 
-[Kategorien](/de/Spezial:Kategorien "Spezial:Kategorien"):
+[Kategorien](/ISB-Eltern-wiki/de/Spezial:Kategorien "Spezial:Kategorien"):
 
--   [Preschool](/de/Kategorie:Preschool "Kategorie:Preschool")
--   [Elementary School](/de/Kategorie:Elementary_School "Kategorie:Elementary School")
--   [Secondary School](/de/Kategorie:Secondary_School "Kategorie:Secondary School")
+-   [Preschool](/ISB-Eltern-wiki/de/Kategorie:Preschool "Kategorie:Preschool")
+-   [Elementary School](/ISB-Eltern-wiki/de/Kategorie:Elementary_School "Kategorie:Elementary School")
+-   [Secondary School](/ISB-Eltern-wiki/de/Kategorie:Secondary_School "Kategorie:Secondary School")

@@ -1,6 +1,6 @@
 From WIKI (EN) | accadis ISB Parents Portal
 
-[Jump to navigation](/en/Preschool_Programs#mw-head) [Jump to search](/en/Preschool_Programs#searchInput)
+[Jump to navigation](/ISB-Eltern-wiki/en/Preschool_Programs#mw-head) [Jump to search](/ISB-Eltern-wiki/en/Preschool_Programs#searchInput)
 
 | Overview |
 | --- |
