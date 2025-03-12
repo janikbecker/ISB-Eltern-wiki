@@ -1,4 +1,3 @@
-## Wiki
 
 [Deutsch](/de/WIKI%20(DE)%20%20accadis%20ISB%20Parents%20Portal.md "Deutsch")
 
