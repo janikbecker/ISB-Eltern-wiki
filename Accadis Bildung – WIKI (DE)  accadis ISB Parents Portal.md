@@ -10,11 +10,11 @@ Seit 1980 Jahren verfolgt accadis einen ganzheitlichen Bildungsansatz. Internati
 
 [![](https://de.wiki.accadis-isb.net/images/thumb/1/10/Bildungsansatz-accadis.jpg/300px-Bildungsansatz-accadis.jpg)](https://de.wiki.accadis-isb.net/Datei:Bildungsansatz-accadis.jpg)
 
-## Institutionen\[[Bearbeiten](https://de.wiki.accadis-isb.net/index.php?title=accadis_Bildung&action=edit&section=1 "Abschnitt bearbeiten: Institutionen")\]
+## Institutionen 
 
-## International School\[[Bearbeiten](https://de.wiki.accadis-isb.net/index.php?title=Accadis_Bildung&action=edit&section=2 "Abschnitt bearbeiten: International School")\]
+## International School 
 
-### Ziele\[[Bearbeiten](https://de.wiki.accadis-isb.net/index.php?title=Accadis_Bildung&action=edit&section=3 "Abschnitt bearbeiten: Ziele")\]
+### Ziele 
 
 Die accadis ISB hat sich zum Ziel gesetzt, selbstbewusste, gebildete und tolerante junge Menschen ins Leben zu entlassen, die sich für eine bessere Zukunft einsetzen. Neben den Inhalten unseres anspruchsvollen Lehrplans vermitteln wir interkulturelles Verständnis und Respekt. So schöpfen unsere Schüler ihr Potenzial aus und entwickeln sich zu empathischen Menschen, die nie aufhören zu lernen.
 
@@ -24,7 +24,7 @@ Wir lehren zukunftsorientiert. Der Abschluss des International Baccalaureate Dip
 
 Jedes Kind ist einzigartig. Durch individuelle Betreuung möchten wir in unseren Schülern deshalb Wissbegier wecken und sie zu selbstmotivierten und verantwortungsbewussten jungen Menschen machen, die gerne zur Schule gehen. Wir sind überzeugt, dass Schüler in einem bilingualen Umfeld mit Klassenkameraden und Lehrern aus allen Teilen der Welt sowohl ihre Sprachkenntnisse verbessern als auch Verständnis und Respekt für andere Kulturen entwickeln. Am Ende ihrer Schulzeit sind sie bereit für das Leben in einer zunehmend globalisierten Gesellschaft.
 
-### Lehrkräfte und pädagogische Mitarbeiter\[[Bearbeiten](https://de.wiki.accadis-isb.net/index.php?title=Accadis_Bildung&action=edit&section=4 "Abschnitt bearbeiten: Lehrkräfte und pädagogische Mitarbeiter")\]
+### Lehrkräfte und pädagogische Mitarbeiter 
 
 An der accadis ISB arbeiten Lehrkräfte, Erzieher und pädagogische Mitarbeiter mit Erfahrungen aus unterschiedlichen Ländern. Alle Lehrkräfte erfüllen die vom staatlichen Schulamt geforderten Qualifikationen zur Erteilung einer Unterrichtsgenehmigung.
 
@@ -32,7 +32,7 @@ Die Lehrkräfte unterrichten jeweils in ihrer Muttersprache bzw. sie beherrschen
 
 Weiterhin stellt accadis ISB jedes Jahr verschiedene Assistenten, z. B. Sozialpädagogen, Sozial-Assistenten, Assistenten die einen Bundesfreiwilligendienst oder ein Freiwilliges Soziales Jahr absolvieren, ein. Die Assistenten unterstützen die Fachlehrkräfte in einigen Fächern, wie [Sport](https://de.wiki.accadis-isb.net/Sportunterricht_und_Schwimmen "Sportunterricht und Schwimmen") oder Kunst bzw. helfen in der Eingangsstufe (Primary Class) und bei weiteren Aufgaben in der Schule aus.
 
-### Qualitätssicherung an der accadis ISB\[[Bearbeiten](https://de.wiki.accadis-isb.net/index.php?title=Accadis_Bildung&action=edit&section=5 "Abschnitt bearbeiten: Qualitätssicherung an der accadis ISB")\]
+### Qualitätssicherung an der accadis ISB 
 
 accadis ISB führt im Rahmen der regelmäßigen Überarbeitung und Anpassung des Curriculums permanent Qualitätskontrollen durch. So wird gewährleistet, dass neue Themen oder zukunftsweisende Methoden geprüft und gegebenenfalls in das bestehende Programm integriert werden können.
 
@@ -42,7 +42,7 @@ Als Ersatzschule in der Elementary School und bis zur Klasse 10 in der Secondary
 
 Alle Lehrkräfte erfüllen die vom staatlichen Schulamt geforderten Qualifikationen, zur Erteilung einer Unterrichtsgenehmigung. Darüber hinaus führt die Schulleitung regelmäßig Unterrichtsbesuche in allen Klassen und bei allen Lehrkräften durch, um eine hohe Unterrichtsqualität zu sichern.
 
-## Hochschule\[[Bearbeiten](https://de.wiki.accadis-isb.net/index.php?title=Accadis_Bildung&action=edit&section=6 "Abschnitt bearbeiten: Hochschule")\]
+## Hochschule 
 
 International, praxisorientiert und mit modularem Curriculum – dies zeichnet das Studium an der accadis Hochschule Bad Homburg aus. Als staatlich anerkannte und vom Wissenschaftsrat akkreditierte Hochschule mit betriebswirtschaftlichem Schwerpunkt bereitet die accadis Hochschule ihre Studenten auf Führungspositionen im internationalen Umfeld vor. Mit einer fundierten fachlichen Ausbildung und innovativen Studiengängen heben sich die Absolventen der accadis Hochschule durch ihre Management- und Kommunikationsfähigkeiten sowie ihre soziale Kompetenz von den Mitbewerbern ab.
 
